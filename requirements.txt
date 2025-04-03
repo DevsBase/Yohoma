@@ -1,0 +1,8 @@
+nexgram.py
+kurigram
+tgcrypto
+aiofiles
+motor 
+pymongo[srv]
+cloudscraper
+beautifulsoup4
