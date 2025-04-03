@@ -6,6 +6,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 from pyrogram.enums import ParseMode
 import contextlib
+import asyncio
 import aiofiles
 
 async def aexec(code, app, msg):
@@ -23,7 +24,7 @@ async def aexec(code, app, msg):
 async def eval_func(_, msg):
   cmd = msg.text.split(None, 1)
   if len(cmd) == 1:
-    return await msg.reply("(sʏɴᴛᴀx ᴇʀʀᴏʀ) ᴄᴏᴅᴇ ɴᴏᴛ ғᴏᴜɴᴅ!")
+    return await msg.reply("ᴄᴏᴅᴇ ɴᴏᴛ ғᴏᴜɴᴅ!")
   message = await msg.reply("ʀᴜɴɴɪɴɢ...")
   stdout, stderr, exc = None, None, None
   with contextlib.redirect_stdout(io.StringIO()) as redr_opu, contextlib.redirect_stderr(io.StringIO()) as redr_err:
@@ -35,6 +36,7 @@ async def eval_func(_, msg):
   output = exc or stderr or stdout or x or "ɴᴏ ᴏᴜᴛᴘᴜᴛ"
   output_text = f"📒 ᴏᴜᴛᴘᴜᴛ:\n<pre>{output}</pre>"
   if len(output_text) >= 4000:
+    import aiofiles
     async with aiofiles.open("result.txt", mode='w') as f:
       await f.write(output)
     await message.reply_document('result.txt')
@@ -43,7 +45,7 @@ async def eval_func(_, msg):
     except: pass
   else:
     await message.reply(output_text, parse_mode=ParseMode.HTML)
-    await message.delete()
+  await message.delete()
 
 @app.on_message(filters.command(["sh", "shell"]) & filters.user(DEVS))
 async def shell(_, message):
@@ -70,3 +72,13 @@ async def shell(_, message):
       await message_text.edit(f"**Output**:\n`{output}`")
   except Exception as e:
     await message_text.edit(f"**Error**:\n`{str(e)}`")    
+
+@app.on_message(filters.command(["log", "logs"]) & filters.user(DEVS))
+async def log(_, m):
+  x = await m.reply("Processing...")
+  async with aiofiles.open("log.txt", mode="r") as l:
+    xx = await l.read()
+  if len(xx) > 4000:
+    await m.reply_document("log.txt")
+  else: await m.reply(f"<pre>{xx}</pre>", parse_mode=ParseMode.HTML)
+  await x.delete()
