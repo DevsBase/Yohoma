@@ -371,3 +371,546 @@
 [Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
 [Yohoma] pyrogram.session.session - Session started
 [Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Loaded modules: 
+[Yohoma] root - ban.py
+[Yohoma] root - dev.py
+[Yohoma] root - modules.py
+[Yohoma] root - pin.py
+[Yohoma] root - purge.py
+[Yohoma] pyrogram.client - [Yohoma] No plugin loaded from "Yohoma/plugins"
+[Yohoma] pyrogram.dispatcher - Started 12 HandlerTasks
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.dispatcher - Error binding parameter 1: type 'User' is not supported
+Traceback (most recent call last):
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 319, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/storage/self/primary/Yohoma/Yohoma/plugins/ban.py", line 16, in ban_func
+    if await CheckPrivileges(m.chat.id, target, checkAdmin=True):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/self/primary/Yohoma/Yohoma/helpers/CheckPrivileges.py", line 6, in CheckPrivileges
+    member = await app.get_chat_member(chat, user)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 56, in get_chat_member
+    user = await self.resolve_peer(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 64, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 181, in get_peer_by_id
+    r = self.conn.execute(
+        ^^^^^^^^^^^^^^^^^^
+sqlite3.ProgrammingError: Error binding parameter 1: type 'User' is not supported
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.dispatcher - Error binding parameter 1: type 'User' is not supported
+Traceback (most recent call last):
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 319, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/storage/self/primary/Yohoma/Yohoma/plugins/ban.py", line 16, in ban_func
+    if await CheckPrivileges(m.chat.id, target, checkAdmin=True):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/self/primary/Yohoma/Yohoma/helpers/CheckPrivileges.py", line 6, in CheckPrivileges
+    member = await app.get_chat_member(chat, user)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 56, in get_chat_member
+    user = await self.resolve_peer(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 64, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 181, in get_peer_by_id
+    r = self.conn.execute(
+        ^^^^^^^^^^^^^^^^^^
+sqlite3.ProgrammingError: Error binding parameter 1: type 'User' is not supported
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Stop signal received (SIGINT). Exiting...
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Loaded modules: 
+[Yohoma] root - ban.py
+[Yohoma] root - dev.py
+[Yohoma] root - modules.py
+[Yohoma] root - pin.py
+[Yohoma] root - purge.py
+[Yohoma] pyrogram.client - [Yohoma] No plugin loaded from "Yohoma/plugins"
+[Yohoma] pyrogram.dispatcher - Started 12 HandlerTasks
+[Yohoma] pyrogram.dispatcher - CheckPrivileges() got an unexpected keyword argument 'checkAdmin'
+Traceback (most recent call last):
+  File "/root/venv/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 319, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/storage/self/primary/Yohoma/Yohoma/plugins/ban.py", line 16, in ban_func
+    if await CheckPrivileges(m.chat.id, target, checkAdmin=True):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CheckPrivileges() got an unexpected keyword argument 'checkAdmin'
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Stop signal received (SIGINT). Exiting...
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Loaded modules: 
+[Yohoma] root - ban.py
+[Yohoma] root - dev.py
+[Yohoma] root - modules.py
+[Yohoma] root - pin.py
+[Yohoma] root - purge.py
+[Yohoma] pyrogram.client - [Yohoma] No plugin loaded from "Yohoma/plugins"
+[Yohoma] pyrogram.dispatcher - Started 12 HandlerTasks
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - <class 'Exception'>
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Stop signal received (SIGINT). Exiting...
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Loaded modules: 
+[Yohoma] root - ban.py
+[Yohoma] root - dev.py
+[Yohoma] root - modules.py
+[Yohoma] root - pin.py
+[Yohoma] root - purge.py
+[Yohoma] pyrogram.client - [Yohoma] No plugin loaded from "Yohoma/plugins"
+[Yohoma] pyrogram.dispatcher - Started 12 HandlerTasks
+[Yohoma] root - <class 'Exception'>
+[Yohoma] root - <class 'Exception'>
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Stop signal received (SIGINT). Exiting...
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] root - Loaded modules: 
+[Yohoma] root - ban.py
+[Yohoma] root - dev.py
+[Yohoma] root - modules.py
+[Yohoma] root - pin.py
+[Yohoma] root - purge.py
+[Yohoma] pyrogram.client - [Yohoma] No plugin loaded from "Yohoma/plugins"
+[Yohoma] pyrogram.dispatcher - Started 12 HandlerTasks
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
+[Yohoma] pyrogram.session.session - NetworkTask stopped
+[Yohoma] pyrogram.session.session - PingTask stopped
+[Yohoma] pyrogram.connection.connection - Disconnected
+[Yohoma] pyrogram.session.session - Session stopped
+[Yohoma] pyrogram.connection.connection - Connecting...
+[Yohoma] pyrogram.connection.connection - Connected! Production DC5 - IPv4
+[Yohoma] pyrogram.session.session - NetworkTask started
+[Yohoma] pyrogram.session.session - Session initialized: Layer 199
+[Yohoma] pyrogram.session.session - Device: CPython 3.12.3 - Pyrogram 2.1.39
+[Yohoma] pyrogram.session.session - System: Linux 6.2.1-PRoot-Distro (en)
+[Yohoma] pyrogram.session.session - Session started
+[Yohoma] pyrogram.session.session - PingTask started
