@@ -1,9 +1,12 @@
 from pyrogram import *
 
-async def CheckPrivileges(chat, user, x=[]):
+async def CheckPrivileges(chat, user, x=[], showMissing=False, checkAdmin=False):
   from Yohoma import app
   x = x if isinstance(x, list) else [x]
   member = await app.get_chat_member(chat, user)
+  if checkAdmin:
+    return member.status in [enums.ChatMemberStatus.ADMINISTRATOR, enums.ChatMemberStatus.OWNER]
   if member.status in [enums.ChatMemberStatus.ADMINISTRATOR, enums.ChatMemberStatus.OWNER] and hasattr(member, "privileges"):
-    return all(getattr(member.privileges, z, False) for z in list(x)) if x else True
-  return False
+    missing = [z for z in x if not getattr(member.privileges, z, False)]
+    return (False, missing) if showMissing and missing else not missing
+  return (False, x) if showMissing else False

@@ -73,12 +73,12 @@ async def shell(_, message):
   except Exception as e:
     await message_text.edit(f"**Error**:\n`{str(e)}`")    
 
-@app.on_message(filters.command(["log", "logs"]) & filters.user(DEVS))
+@app.on_message(filters.command(["log", "logs", "flog", "flogs"]) & filters.user(DEVS))
 async def log(_, m):
   x = await m.reply("Processing...")
   async with aiofiles.open("log.txt", mode="r") as l:
     xx = await l.read()
-  if len(xx) > 4000:
+  if len(xx) > 4000 and 'f' in m.command[0]:
     await m.reply_document("log.txt")
-  else: await m.reply(f"<pre>{xx}</pre>", parse_mode=ParseMode.HTML)
+  else: await m.reply(f"<pre>{xx[-2000:]}</pre>", parse_mode=ParseMode.HTML)
   await x.delete()
