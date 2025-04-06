@@ -5,7 +5,9 @@ from pyrogram import *
 async def pro_func(_, m):
   p = await m.reply("Processing...")
   members,admins,task = 0,0,m.command[0].lower()
-  async for x in app.get_chat_members(m.chat.id):
+  if task in ['unbanall']: f = enums.ChatMembersFilter.BANNED
+  else: f = None
+  async for x in app.get_chat_members(m.chat.id, filter=f):
     if task == 'unbanall':
       if x.status == enums.ChatMemberStatus.BANNED:
         x = await app.unban_chat_member(m.chat.id, x.user.id)
