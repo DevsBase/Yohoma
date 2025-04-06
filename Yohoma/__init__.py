@@ -9,7 +9,7 @@ logging.basicConfig(
   handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
   level=logging.INFO,
 )
-
+SUDOS = DEVS+SUDOS
 if len(TOKEN) > 100:
   app = Client("Yohoma", session_string=TOKEN, api_id=API_ID, api_hash=API_HASH, plugins=dict(root="Yohoma/plugins"))
 else: app = Client("Yohoma", bot_token=TOKEN, api_id=API_ID, api_hash=API_HASH, plugins=dict(root="Yohoma/plugins"))
